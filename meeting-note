@@ -1,5 +1,5 @@
 1. Meeting Notes – Requirement Discussion
-
+--------------------------------------------------------
 Ngày 12/01/2026
 Thành viên tham gia: Tùng, Công, Phương, Lập, Hải, Tuân
 
@@ -11,7 +11,7 @@ Action Items
 - Công: Vẽ BPMN
 - Tùng: Tổng hợp Issue, Ghi chép cuộc họp
 - Tuân: Xác định tính cấp thiết của dự án
-
+--------------------------------------------------------
 Ngày 13/01/2026
 Thành viên tham gia: Tùng, Công, Phương, Lập, Hải, Tuân
 
@@ -23,3 +23,27 @@ Action Items
 - Phương: phân tích yêu cầu từ kết quả khảo sát
 - Hải: lựa chọn kỹ thuật thu thập yêu cầu
 - Lập: xác định yêu cầu nghiệp vụ, quy trình nghiệp vụ
+--------------------------------------------------------
+Ngày 18/1/2026
+Thành viên tham gia: Tùng, Công, Phương, Lập, Hải, Tuân
+
+Topic
+-Xác định lại các Needs, các Feat
+
+Action Item:
+-Công, Lập, Tùng: Tinh chỉnh các Needs
+-Tuân: tạo mẫu khảo sát yêu cầu
+--------------------------------------------------------
+Ngày 19/1/2026
+Thành viên tham gia: Công, Phương, Lập, Hải, Tuân
+
+Topic
+-Tinh chỉnh các luồng dữ liệu khảo sát
+-Chỉnh sửa Excel, Word
+-Sửa BPMN
+
+Action Item:
+-Tuân: Excel
+-Phương: Word
+-Lập, Hải: Tinh chỉnh dữ liệu Needs
+-Công: Sửa BPMN
